@@ -1,5 +1,8 @@
 Simple Metamask crypto themed phishing analysis example with multiple redirects
 
+Screenshot and other details:  
+https://twitter.com/Securityinbits/status/1612053309438980097
+
 ## IocS:
 
 Date:  
